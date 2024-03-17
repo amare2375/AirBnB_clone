@@ -13,4 +13,4 @@ class TestPlace(TestBaseModel):
         """Set up which instance to call"""
         self._class = Place()
         self._class2 = Place()
-        self._name = "Place
+        self._name = "Place"
